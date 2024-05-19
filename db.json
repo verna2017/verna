@@ -1,9 +1,9 @@
 {
   "pay": {
     "exit" : "1",
-    "network" : "1",
+    "network" : "0",
     "tabbar" : "1",
-    "depositFunction" : "0",
+    "depositFunction" : "1",
     "tranferFunction" : "1",
     "withdrawFunction" : "1",
     "websocket" : "1"
