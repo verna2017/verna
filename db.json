@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "pay": {
+    "isOn" : "0"
+  },
+  "kife": {
+    "isOn": "1"
   }
 }
