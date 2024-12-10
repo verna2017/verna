@@ -3,7 +3,7 @@
     "exit" : "1",
     "network" : "1",
     "tabbar" : "1",
-    "depositFunction" : "1",
+    "depositFunction" : "0",
     "tranferFunction" : "1",
     "withdrawFunction" : "1",
     "websocket" : "1"
