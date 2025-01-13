@@ -1,6 +1,6 @@
 {
   "pay": {
-    "exit" : "0",
+    "exit" : "1",
     "network" : "1",
     "tabbar" : "1",
     "depositFunction" : "1",
