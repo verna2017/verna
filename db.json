@@ -3,10 +3,10 @@
     "exit" : "1",
     "network" : "1",
     "tabbar" : "0",
-    "depositFunction" : "1",
-    "tranferFunction" : "1",
-    "withdrawFunction" : "1",
-    "websocket" : "1"
+    "depositFunction" : "0",
+    "tranferFunction" : "0",
+    "withdrawFunction" : "0",
+    "websocket" : "0"
   },
   "life": {
     "isOn": "1"
