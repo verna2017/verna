@@ -2,7 +2,7 @@
   "pay": {
     "exit" : "1",
     "network" : "1",
-    "tabbar" : "1",
+    "tabbar" : "0",
     "depositFunction" : "1",
     "tranferFunction" : "1",
     "withdrawFunction" : "1",
