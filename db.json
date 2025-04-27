@@ -10,5 +10,14 @@
   },
   "life": {
     "isOn": "1"
+  },
+  "sabaidee": {
+    "exit" : "1",
+    "network" : "0",
+    "tabbar" : "0",
+    "depositFunction" : "0",
+    "tranferFunction" : "0",
+    "withdrawFunction" : "0",
+    "websocket" : "0"
   }
 }
